@@ -1,0 +1,13 @@
+.idea
+.DS_Store
+src/github.com
+src/golang.org
+src/csc482/Dockerfile
+.vscode
+bin
+src/test/
+pkg
+.vscode
+src/chansen-ticket_master/Dockerfile
+src/chansen-ticket_master_grabber/Dockerfile
+Dockerfile
